@@ -1,19 +1,19 @@
 # MSc-Forecasting-the-Distribution-of-Renewable-Energy-Sources-Production-in-Madeira
 
-For my MSc thesis, I am working on a project titled "Forecasting the Distribution of Renewable Energy Sources Production in Madeira", which is supervised by Professor Vítor Santos and Maria Anastasiadou. I am using **real renewable energy production data**, provided by "Empresa de Eletricidade da Madeira" (EEM), the regional utility provider. 
+For my MSc thesis, I am working on a project titled "Forecasting the Distribution of Renewable Energy Sources Production in Madeira", which is supervised by Professor Vítor Santos and Maria Anastasiadou. I am using **real renewable energy production data**, provided by "Empresa de Eletricidade da Madeira" (EEM), the **regional utility provider**. 
 
-The expected goal of this research is to contribute to the reduction of Madeira’s reliance on fossil fuels, while also supporting the United Nations' 7th Sustainable Development Goal (Affordable and Clean Energy). 
-Due to compliance restrictions, the Jupyter Notebook files and original datasets cannot be shared. Instead, a description of the project's scope, data description and transformation process will be provided on the "Data" section.
+The expected goal of this research is to contribute to the **reduction of Madeira’s reliance on fossil fuels**, while also supporting the United Nations' 7th Sustainable Development Goal (Affordable and Clean Energy). 
+Due to compliance restrictions, the Jupyter Notebook files and original datasets cannot be shared. Instead, a description of the project's scope, data description and transformation process **will be provided** on the "Data" section.
 
 ## Overview
 
-Climate change is a consequence of the utilization of fossil fuels, which were key factors to human industrialization and advancements, ever since the first industrial revolution. Nonetheless, fossil fuels need to be burnt to generate energy, and when they burn, they release large amounts of harmful gases, with the most noteworthy being Carbon Dioxide. This gas is the main responsible for climate change.
+Climate change is a consequence of the utilization of **fossil fuels**, which were key factors to human industrialization and advancements, ever since the first industrial revolution. Nonetheless, fossil fuels need to be burnt to generate energy, and when they burn, they release **large amounts of harmful gases**, with the most noteworthy being Carbon Dioxide. This gas is the **main responsible** for climate change.
 
-Nevertheless, Energy is an absolute must for ensuring that people can fulfill their primary needs, such as cooking, heating and transportation. The increased urge of cleaner and limitless energy sources as led to the increased use of renewable energy sources over the last years, as these are greener and unlimited.
+Nevertheless, Energy is an absolute must for ensuring that people can fulfill their **primary needs**, such as cooking, heating and transportation. The increased urge of cleaner and limitless energy sources has led to the increased use of renewable energy sources over the last years, as these are **greener** and **unlimited**.
 
-However, Madeira Island, a small Portuguese island located in the North Atlantic Ocean, is not an exception to this energy reality. Despite all the efforts that have been conducted, only 40% of Madeira’s energy production comes from renewable sources. In comparison, 75% of Portugal’s mainland energy production comes from renewable sources. Weather variability constrains Madeira's reliance on renewable energy. 
+However, Madeira Island, a small Portuguese island located in the North Atlantic Ocean, is not an exception to global energy challenge. Despite significant efforts, **only 40% of Madeira’s energy production comes from renewable sources**, compared to **75% on Portugal’s mainland**. One of the key limiting factors is **weather variability**, which constrains Madeira's ability to rely more on renewable energy. 
 
-Hence, this project aims to mitigate weather variability, by producing accurate renewable energy production forecasts, to sustain decision-making in Madeira.
+Hence, this project aims to **mitigate weather variability**, by producing **accurate renewable energy production forecasts**, to sustain decision-making in Madeira.
 
 This project is following the **CRISP-DM Methodology**.  
 
